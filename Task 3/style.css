@@ -1,0 +1,9 @@
+.Navbar{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    padding: 5px 0px;
+}
+.dropdown{
+    margin-top: 2px;
+}
